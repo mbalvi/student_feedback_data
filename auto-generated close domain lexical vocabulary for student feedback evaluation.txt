@@ -1,0 +1,12 @@
+allocation, always, assignment, assist, attention, avoid, behavior
+better, bless, burden, class, complex, counseling, data
+demo, discourage, dislike, done, encourage, end, engineering
+faculty, favourtism, field, give, given, good, great
+help, helping, ideal, instead, interest, know, lab
+learn, lecture, like, load, lot, method, motivate
+must, must, nepotism, nice, no, not, opportunity
+overall, paper, per, presentation, problem, project, properly
+purchase, put, quiz, remain, say, schedule, should
+skill, style, subject, table, take, teach, term
+test, thank, time, too, touch, towards, trea
+very, well, work, , , , 
