@@ -1,8 +1,8 @@
 "121": "one to one",
-
 "10Q": "Thank you",
 "AAMOF":"As A Matter Of Fact",
 "AAMOI":"As A Matter Of Interest",
+"AAYF":"As Always, Your Friend",
 "b/c": "because",
 "coz": "because",
 "c u": "see you",
